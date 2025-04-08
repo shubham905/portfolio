@@ -54,10 +54,12 @@
 - Infrastructure procurement like Kubernetes, image registry, databases, VPC, EFS and S3 buckets etc on AWS Azure and GCP using Terraform.
 - Installation of services on Kubernetes cluster.
 - configuration of Jenkins and GitHub actions CICD pipeline for deployment. Preparation for releasing the new features.
+
 **Technologies Used:** Kubernetes, docker, Helm Charts, Elasticsearch, MySQL, PostgreSQL, Gitlab Server, Keycloak, Gatekeeper, Vault, SSL, AWS, Azure, OnPrem, Persistent Volumes.
 
 ### Smart Cosmos Solutions
 Worked with Smart Cosmos, a platform that digitizes physical products and assets by creating secure digital identities for each item. This enables complete transparency and traceability from manufacturing to end-user, allowing for engaging customer interactions, robust brand protection, and efficient supply chain management. Gained experience in leveraging cutting edge technology to deploy embeded pojects on cloud.
+
 **Responsibilities**
 - AWS Infrastructure procurement using cloud formation like Kubernetes cluster, Databases, S3 buckets, Load Balancers, Lambda Functions etc.
 - Docker file creation for containerization of microservices Preparation of deployment files like Services, PV/PVC, ConfigMaps, Secrets and Role based access using
@@ -66,6 +68,7 @@ helm charts
 - Setup monitoring on Kubernetes and EC2 machines using Prometheus, Grafana and alert manager.
 - Setup serverless application using Lambda function for automation of the tasks.
 - Responsible for managing Elasticsearch, Kibana, CouchDB - Pouch DB and Ingress controllers
+
 **Technologies Used:** Kubernetes, docker, Helm Charts, Elasticsearch, Kibana, MongoDB, MySQL, CouchDB,
 Pouch DB, PostgreSQL, Lambda Function, Circle-CI, Sops, Blue bite, Ingress Nginx Controller.
 
