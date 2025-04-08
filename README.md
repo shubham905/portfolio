@@ -4,8 +4,8 @@
 - Core - Kubernetes, Docker,Linux, GIT, Networking, Minikube, RKE
 
 ## Education							       		
-- MCA., Computer Science | AKGEC Ghaziabad ( May 2020_)	 			        		
-- BCA., Computer Science | RSMT Varanasi (_May 2017_)
+- MCA , Computer Science, AKGEC Ghaziabad ( May 2020_)	 			        		
+- BCA , Computer Science, RSMT Varanasi ( May 2017_)
 
 ## Work Experience
 **DigiMoksha Solutions - DevOps Engineer | Client: Aristocrat Gaming (_Sept 2024 - Present_)**
@@ -17,23 +17,40 @@
 - Authored and maintained Ansible playbooks for efficient one-click deployment of applications across multiple servers, enhancing team productivity
 - Solely responsible for creating Kubernetes helm charts for microservices.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**LTIMindtree (Fosfor) — DevOps/SRE Engineer (_Oct. 2022 – Sept 2024_)**
+- Experience in data product deployment for multiple clients in on-prem and cloud setup using Kubernetes on multiple clouds like AWS, Azure, and GCP and for on-prem setup like OpenShift and Minikube.
+- I have prepared disaster recovery plan for the data product deployed at on-prem and multi-cloud setups, ensuring all the components like Kubernetes cluster components, databases, volumes, virtual machines should not fail after any disaster.
+- Experience in infrastructure procurement using terraform on AWS and Azure to procure Kubernetes clusters, database like PostgreSQL and MySQL and MongoDB, EC2, storage like EBS, EFS, S3 and Load balancers and application gateway.
+- Experienced in monitoring setup in Kubernetes cluster using Prometheus, Grafana, Alert manager, and node-exporter.
+- I have done multiple proof of concepts (POCs) like cloud and on- premises Disaster Recovery (DR) setup, monitoring setup, MySQL and PostgreSQL DB replication setup, Elasticsearch and GitLab migration, and High availability setup of tools in Kubernetes.
+- Experience in GitHub Actions, Jenkins CICD pipeline setup to deploy the product using helm chart on Kubernetes cluster.
+- I work as a DevOps in the Financial Intelligence Unit from LTIMindtree. My primary job is to deploy the product in a secure on- prem setup on an OpenShift cluster along with databases, Elasticsearch, and Gitlab and ensure all components work in the primary and secondary regions.
+- I have done multiple cost optimization activities on AWS and Azure to meet organization financial goals.
+
+**InnoBit Systems LLC, Noida— DevOps/ Cloud Engineer (_Jan. 2020 - Oct. 2022_)**
+- Worked as DevOps Engineer for Smart Cosmos team.
+- I was leading 4-5 members of the Devops team like giving training and daily tasks and updates
+- Major responsibilities were creating Docker files for microservices.
+- Experience in AWS infrastructure procurement using Cloud formation. E.g. Kubernetes cluster, S3, MySQL, PostgreSQL, Lambda functions
+- Experience in microservices deployment with other components like deployment, Service, persistent volumes, ConfigMaps, Secrets, Ingress, and RBAC in Kubernetes cluster
+- I have created GitHub actions pipeline for smooth deployment of the product in multiple environments.
+- Led the setup of monitoring solutions for product deployments acrossdiverse environments, utilizing Prometheus, Grafana, and Alert manager to ensure real-time visibility and proactive alerting
+- Responsible for cost optimization operations on AWS cloud.
+- I led the seamless migration of databases including MySQL, MongoDB, and Elasticsearch, ensuring minimal downtime and preserving data integrity throughout the transition process
+- I was responsible for deploying any new services or patch across all the environments.
+- Played a key role in architecture design for the different products.
+- Experience in monolithic product deployments using Nginx and Docker, optimizing performance and scalability.
+
+
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Fosfor Decision Cloud (FDC)
+​Worked with Fosfor, a modern data-to-decisions platform that streamlines the entire data lifecycle—from ingestion and pipeline management to AI/ML deployment and real-time business decision-making. Gained hands-on experience in enabling data-driven insights and building scalable, intelligent solutions across industries like banking, healthcare, and retai
+- **Organize and curate data:** Facilitate the creation of reliable and modular data pipelines.​
+- **Develop and deploy AI applications:** Streamline the building and management of AI/ML applications.​
+- **Empower decision-making:** Provide tools for real-time, AI-driven business decisions
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+The platform offers specific functionalities for different roles, including data analysts and data engineers, to streamline data analysis, visualization, and pipeline management. Fosfor serves various industries such as banking, insurance, manufacturing, healthcare, retail, and consumer packaged goods, tailoring its solutions to meet industry-specific needs.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 
