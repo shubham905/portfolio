@@ -1,10 +1,10 @@
 # DevOps Engineer
 
 #### Technical Skills: 
-**Core - Kubernetes, Docker,Linux, GIT, Networking, Minikube, RKE
+- Core - Kubernetes, Docker,Linux, GIT, Networking, Minikube, RKE
 
 ## Education							       		
-- MCA., Computer Science 	| AKGEC Ghaziabad ( May 2020_)	 			        		
+- MCA., Computer Science | AKGEC Ghaziabad ( May 2020_)	 			        		
 - BCA., Computer Science | RSMT Varanasi (_May 2017_)
 
 ## Work Experience
